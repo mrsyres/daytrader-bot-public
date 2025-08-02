@@ -6,8 +6,8 @@ import logging
 # Configure logging
 logging.basicConfig(filename="trade_log.txt", level=logging.INFO, format='%(asctime)s %(message)s')
 
-# ✅ Final momentum stock list
-symbols = ['PLTR', 'MSTR', 'FTNT', 'SHOP', 'NRG']
+# Final momentum stock list (updated)
+symbols = ['NVAX', 'FFIE', 'ICU', 'SNTI', 'AERC']
 period = '30d'
 interval = '15m'
 
